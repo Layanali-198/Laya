@@ -16,7 +16,7 @@ class LinearSearch {
 
             {
 
-                        for (int j = 0; j < n; j++) {
+                        for (int j = 1; j < n; j++) {
 
                                 // Return the index of the element if the element
 
