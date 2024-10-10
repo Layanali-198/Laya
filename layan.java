@@ -1,4 +1,6 @@
 //----------------------------------------------------------------------------------------------
+//Layan Ali Alharbi 
+// ID :443002742
 
 // Java code for linearly search x in arr[]. If x
 
@@ -14,15 +16,15 @@ class LinearSearch {
 
             {
 
-                        for (int i = 0; i < n; i++) {
+                        for (int j = 0; j < n; j++) {
 
                                 // Return the index of the element if the element
 
                                     // is found
 
-                                    if (arr[i] == x)
+                                    if (arr[j] == x)
 
-                                                return i;
+                                                return j;
 
                         }
 
